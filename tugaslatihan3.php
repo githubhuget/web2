@@ -22,7 +22,7 @@ $hewan = [
     "jenis" => "ikan air tawar",
     "habitat" => "sungai",
     "makanan" => "omnivora",
-    "gambar" => "ikan.jpg"
+    "gambar" => "ikaN.jpg"
     ],
 
     [
